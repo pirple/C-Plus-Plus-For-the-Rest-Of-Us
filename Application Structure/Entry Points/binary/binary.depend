@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1406318042 source:c:\users\mark\desktop\cpp for beginners\chapter 7\7.01\binary\main.cpp
+	<iostream>
+	<math.h>
+
+1406551912 source:c:\users\mark\desktop\cpp for beginners\chapter 8\8.03\binary\helpers.cpp
+	<iostream>
+	<math.h>
+	<bitset>
+	<string>
+
+1406551822 source:c:\users\mark\desktop\cpp for beginners\chapter 8\8.03\binary\main.cpp
+	<iostream>
+	<math.h>
+	<bitset>
+	"helpers.h"
+
+1406551797 c:\users\mark\desktop\cpp for beginners\chapter 8\8.03\binary\helpers.h
+

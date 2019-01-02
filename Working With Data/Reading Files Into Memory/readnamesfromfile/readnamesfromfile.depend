@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1406650288 source:c:\users\mark\desktop\cpp for beginners\chapter 11\11.02\readnamesfromfile\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1406554776 source:c:\users\mark\desktop\cpp for beginners\chapter 9\9.01\strings\main.cpp
+	<iostream>
+	<string.h>
+

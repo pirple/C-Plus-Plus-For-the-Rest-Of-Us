@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1385320478 source:c:\users\mark\desktop\cpp for beginners\chapter 10\10.02\fullnames\main.cpp
+	<iostream>
+
+1406638822 source:c:\users\mark\desktop\cpp for beginners\chapter 10\10.02\fullnames\src\enhancedstring.cpp
+	"EnhancedString.h"
+
+1406638871 c:\users\mark\desktop\cpp for beginners\chapter 10\10.02\fullnames\include\enhancedstring.h
+	<string>
+
+1406639434 source:c:\users\mark\desktop\cpp for beginners\chapter 10\10.02\fullnames\src\fullname.cpp
+	"FullName.h"
+
+1406639410 c:\users\mark\desktop\cpp for beginners\chapter 10\10.02\fullnames\include\fullname.h
+	"EnhancedString.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1406296633 source:c:\users\mark\desktop\cpp for beginners\2.04\integers\main.cpp
+	<iostream>
+	<climits>
+

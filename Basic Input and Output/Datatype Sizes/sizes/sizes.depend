@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1406297417 source:c:\users\mark\desktop\cpp for beginners\3.02\sizes\main.cpp
+	<iostream>
+	<climits>
+
